@@ -1,6 +1,6 @@
 # Date: 06/10/2017
 # Distro: Kali linux
-# Desc: Instagram Bruteforce
+# Desc: Instagram src/constants/constants.ts
 #
 #
 
