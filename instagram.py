@@ -31,7 +31,7 @@ class Instagram(TorManager,Browser):
 
 		#for browser
 		self.url = 'https://www.instagram.com/accounts/login/?force_classic_login'
-		self.form1 = 'username'
+		self.form1 = 'aa2002at'
 		self.form2 = 'password'
 
 		Browser.__init__(self)
