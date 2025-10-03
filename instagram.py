@@ -34,7 +34,7 @@ class Instagram(TorManager,Browser):
 		self.form1 = 'aa2002at'
 		self.form2 = 'password'
 
-		Browser.__init__(self)
+		Browser.__init__(aa2002at)
 		TorManager.__init__(self)
 
 		self.n = '\033[0m'
